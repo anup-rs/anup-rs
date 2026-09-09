@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:22d3ee&height=250&section=header&text=Hey,%20I'm%20Anup&fontSize=38&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=ECE%20Undergrad%20%C2%B7%20Self-taught%20Developer&descSize=16&descAlignY=58" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,100:22d3ee&height=190&section=header&text=Hey,%20I'm%20Anup&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=ECE%20Undergrad%20%C2%B7%20Self-taught%20Developer&descSize=17&descAlignY=58" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=20&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=560&lines=Turning+coffee+and+bugs+into+working+apps;Learning+something+new+every+week;Self-taught+%C2%B7+GDG+%C2%B7+OpenAI+Student+Collective" alt="Typing SVG" />
 
@@ -61,7 +61,7 @@
 
 <div align="center">
 
-<img src="https://https://github-readme-stats-eight-gules-30.vercel.app/api?username=anup-rs&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+<img src="https://github-readme-stats-eight-gules-30.vercel.app/api?username=anup-rs&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.demolab.com/?user=anup-rs&theme=radical&hide_border=true" height="165"/>
 
 </div>
