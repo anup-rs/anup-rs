@@ -61,7 +61,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anup-rs&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
+<img src="https://https://github-readme-stats-eight-gules-30.vercel.app/api?username=anup-rs&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.demolab.com/?user=anup-rs&theme=radical&hide_border=true" height="165"/>
 
 </div>
