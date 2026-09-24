@@ -12,7 +12,7 @@
 
 - 🎓 2nd-year ECE undergraduate
 - 💻 Self-taught developer, learning by building real projects
-- 🌱 Active with **GDG** and the **OpenAI Student Collective**
+- 🌱 Active with **GDG** and the **Microsoft Skill Builder under Microsoft Ambassador Program**
 - 📫 Reach me: anup-rs@proton.me
 
 <br/>
